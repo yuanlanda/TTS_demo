@@ -1,0 +1,38 @@
+<speak>
+  <par>
+    <media xml:id='question'>
+      <speak>
+        <prosody rate="slow">A heart that's full up like a landfill
+        A job that slowly kills you
+        Bruises that won't heal</prosody>
+
+        You look so tired and unhappy
+        Bring down the government
+        They don't, they don't speak for us
+        I'll take a quiet life
+        A handshake of carbon monoxide
+
+        No alarms and no surprises
+        No alarms and no surprises
+        No alarms and no surprises
+        Silent, silent
+
+        This is my final fit, my final bellyache with
+
+        No alarms and no surprises
+        No alarms and no surprises
+        No alarms and no surprises please
+
+        Such a pretty house, such a pretty garden
+
+        No alarms and no surprises (let me out of here)
+        No alarms and no surprises (let me out of here)
+        No alarms and no surprises please (let me out of here)
+        Wikipedia was launched on 15 January 2001, two days after the domain was registered by Jimmy Wales and Larry Sanger.
+      </speak>
+    </media>
+    <media repeatDur='60s' soundLevel="-15dB" end='question.end+0s'>
+      <audio src="radiohead_no_surprises_cut.mp3"/>
+    </media>
+  </par>
+</speak>

@@ -1,0 +1,3 @@
+<speak>
+   <emphasis level="moderate">The biggest loser</emphasis> among the top 10 <sub alias="crypto currencies">cryptocurrencies</sub> is bitcoin cash(BCH), <break time="100ms"/> down <sub alias="ten point fifty eight">10.58</sub> percent in the last 24 hours. <break time="200ms"/> It's also down <sub alias="twenty four point eleven">24.11</sub> percent from the recent high of $1,641.40. 
+</speak>

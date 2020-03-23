@@ -1,0 +1,13 @@
+<speak>
+  I have your calendar open. 
+  <break strength="medium"/> 
+  <prosody pitch="-1st">For what date?</prosody>
+  <break strength="medium"/> 
+  <prosody pitch="-2st">What time would you like to start?</prosody>
+  <break strength="medium"/> 
+  <prosody pitch="-2st">How much time do you want to block out?</prosody> 
+  <break strength="medium"/> 
+  <prosody pitch="-2st">What shall we call this?</prosody>
+  <break strength="medium"/> 
+  Ok. It’s on your calendar for tomorrow from <say-as interpret-as="time" format="hms12">3:00pm</say-as> to <say-as interpret-as="time" format="hms12">4:00pm</say-as>. The appointment is called <sub alias="fiica">Fika</sub>.
+</speak>
